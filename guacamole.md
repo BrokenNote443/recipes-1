@@ -6,6 +6,7 @@
 * 1 lime
 * 2 tsp salt
 * jalepeno to taste
+* cilantro to taste
 * 1/2 onion
 
 **Instructions:**
@@ -13,6 +14,7 @@
 * cut and mash avocados
 * chop onion
 * chop the jalepeno
+* chop the cilantro
 * squeeze lime
 * add salt
 and mix well
